@@ -1,0 +1,25 @@
+{
+  "name": "sudoku-solver",
+  "version": "1.0.0",
+  "description": "Sudoku solver in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavierMendozaGomez/sudoku-solver.git"
+  },
+  "keywords": [
+    "sudoku",
+    "solver",
+    "javier",
+    "mendoza"
+  ],
+  "author": "Javier Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavierMendozaGomez/sudoku-solver/issues"
+  },
+  "homepage": "https://github.com/JavierMendozaGomez/sudoku-solver#readme"
+}
